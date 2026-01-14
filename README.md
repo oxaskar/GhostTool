@@ -1,69 +1,58 @@
-# 👻 GhostTool
+🧿 GhostTool
 
-**GhostTool** is an advanced terminal-based cybersecurity and penetration testing toolkit designed for Kali Linux.  
-It provides powerful analysis, scanning, and utility tools in a fast and stylish CLI interface.
+Advanced terminal-based cybersecurity toolkit for Kali Linux.
+Developed for educational and penetration testing purposes.
 
-> Developed for educational and authorized security testing purposes only.
+🚀 Features
 
----
+⚡ Fast and lightweight terminal interface
 
-## 🚀 Features
+🛡️ Multiple security analysis tools in one place
 
-- ⚡ Fast and lightweight terminal interface
-- 🎨 Colorful and modern CLI design
-- 🧠 Intelligent analysis modules
-- 🔍 Multiple security utilities
-- 🛠️ Easy to install and update
-- 🐧 Optimized for Kali Linux
+🎯 User-friendly menu system
 
----
+🧩 Modular structure (easy to expand)
 
-## 📦 Installation
+🐧 Fully compatible with Kali Linux
 
-```bash
-git clone git@github.com:oxaskar/GhostTool.git
+🔧 Automatic dependency installation
+
+📦 Installation (Kali Linux)
+
+Open terminal and run:
+
+git clone https://github.com/oxaskar/GhostTool.git
 cd GhostTool
+chmod +x install.sh
+./install.sh
+
+▶️ Run
+
+After installation:
+
 python3 ghost.py
-```
 
----
+🛠 Requirements
 
-## 🧪 Usage
+Kali Linux
 
-Simply run:
+Python 3.8+
 
-```bash
-python3 ghost.py
-```
+Git
 
-Follow the interactive menu to select your tools.
+All required Python libraries will be installed automatically.
 
----
+⚠️ Disclaimer
 
-## 🔐 Requirements
-
-- Kali Linux / Linux
-- Python 3.8+
-- Internet connection (for some modules)
-
----
-
-## ⚠️ Disclaimer
-
-This tool is intended for **educational and ethical penetration testing only**.  
+This tool is created for educational and ethical penetration testing purposes only.
 The developer is not responsible for any misuse or illegal activities.
 
-Always have proper authorization before testing any system.
+👤 Developer
 
----
+[İnstagram : @0xaskar](https://www.instagram.com/0x.askar)
 
-## 👤 Developer
+GitHub: https://github.com/oxaskar
 
-- GitHub: https://github.com/oxaskar
-- Instagram: @0x.askar
+⭐ Support
 
----
-
-## ⭐ Support
-
-If you like this project, please give it a ⭐ on GitHub!
+If you like this project, don't forget to give it a ⭐ on GitHub!
