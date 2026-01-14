@@ -1,58 +1,78 @@
-🧿 GhostTool
+👻 GhostTool
+Advanced Cyber Security Toolkit for Kali Linux
 
-Advanced terminal-based cybersecurity toolkit for Kali Linux.
-Developed for educational and penetration testing purposes.
+A powerful, lightweight and modular terminal-based penetration testing framework built for Kali Linux.
+Designed for security researchers, ethical hackers and cybersecurity learners.
 
-🚀 Features
+<p align="center"> <img src="https://user-images.githubusercontent.com/0000000/placeholder-banner.png" width="80%"> </p>
+✨ Highlights
 
-⚡ Fast and lightweight terminal interface
+✔ Modern terminal interface
+✔ Fast execution & low resource usage
+✔ Modular architecture
+✔ Easy installation
+✔ Kali Linux optimized
+✔ Beginner friendly
+✔ Open source
 
-🛡️ Multiple security analysis tools in one place
+🧰 Included Capabilities
 
-🎯 User-friendly menu system
+🔍 Information Gathering
 
-🧩 Modular structure (easy to expand)
+🌐 Network Analysis
 
-🐧 Fully compatible with Kali Linux
+🛡️ Security Testing Modules
 
-🔧 Automatic dependency installation
+⚙️ System Utilities
 
-📦 Installation (Kali Linux)
+📊 Automated workflows
 
-Open terminal and run:
+🧩 Expandable module structure
 
+New modules can easily be added.
+
+📥 Installation (Kali Linux)
 git clone https://github.com/oxaskar/GhostTool.git
 cd GhostTool
 chmod +x install.sh
 ./install.sh
 
-▶️ Run
-
-After installation:
-
+▶️ Usage
 python3 ghost.py
 
-🛠 Requirements
 
-Kali Linux
+Follow the on-screen menu to navigate through tools.
 
-Python 3.8+
+🧪 Tested Environment
+Component	Version
+OS	Kali Linux 2024+
+Python	3.8+
+Terminal	ZSH / Bash
+📦 Dependencies
 
-Git
+All Python dependencies are automatically installed via:
 
-All required Python libraries will be installed automatically.
+requirements.txt
 
-⚠️ Disclaimer
+⚠️ Legal Disclaimer
 
-This tool is created for educational and ethical penetration testing purposes only.
-The developer is not responsible for any misuse or illegal activities.
+This project is strictly for educational and authorized security testing purposes only.
+Any illegal usage is strictly prohibited.
+The developer takes no responsibility for misuse.
 
-👤 Developer
+🧑‍💻 Developer
 
-[İnstagram : @0x.askar](https://www.instagram.com/0x.askar)
-
+oxaskar
 GitHub: https://github.com/oxaskar
+ İnstagram: https://www.instagram.com/0x.askar
+🌟 Contribute
 
-⭐ Support
+Contributions, ideas and improvements are always welcome.
 
-If you like this project, don't forget to give it a ⭐ on GitHub!
+git fork
+git commit
+git pull request
+
+⭐ Support the Project
+
+#zir/ve/den/sa ヅ
