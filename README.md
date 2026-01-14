@@ -19,13 +19,9 @@ Designed for security researchers, ethical hackers and cybersecurity learners.
 
 🔍 Information Gathering
 
-🌐 Network Analysis
-
 🛡️ Security Testing Modules
 
 ⚙️ System Utilities
-
-📊 Automated workflows
 
 🧩 Expandable module structure
 
