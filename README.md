@@ -28,9 +28,13 @@ Designed for security researchers, ethical hackers and cybersecurity learners.
 New modules can easily be added.
 
 📥 Installation (Kali Linux)
+
 git clone https://github.com/oxaskar/GhostTool.git
+
 cd GhostTool
+
 chmod +x install.sh
+
 ./install.sh
 
 ▶️ Usage
