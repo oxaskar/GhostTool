@@ -49,7 +49,7 @@ The developer is not responsible for any misuse or illegal activities.
 
 👤 Developer
 
-[İnstagram : @0xaskar](https://www.instagram.com/0x.askar)
+[İnstagram : @0x.askar](https://www.instagram.com/0x.askar)
 
 GitHub: https://github.com/oxaskar
 
