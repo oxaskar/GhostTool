@@ -60,7 +60,7 @@ Always have proper authorization before testing any system.
 ## 👤 Developer
 
 - GitHub: https://github.com/oxaskar
-- Instagram: @j.tay_ler
+- Instagram: @0x.askar
 
 ---
 
